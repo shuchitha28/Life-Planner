@@ -1,0 +1,8 @@
+{
+  "name": "LifePlanner",
+  "description": "A comprehensive, customizable life management dashboard with AI-powered insights, trackers for health, productivity, and wellness.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
